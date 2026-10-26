@@ -85,7 +85,7 @@ registerForm.addEventListener("submit", async function (event) {
         );
  
         displayMessage(
-            "Account created! Pumunta na sa iyong dashboard...",
+            "Account created! Redirecting to your dashboard...",
             "success"
         );
  
